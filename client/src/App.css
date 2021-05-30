@@ -1,0 +1,13 @@
+.image-width {
+  width: 90px;
+}
+.shopping-cart {
+  min-width: 450px;
+}
+
+.cursor {
+  cursor: pointer;
+}
+.img img {
+  max-height: 630px;
+}
